@@ -1,6 +1,6 @@
 # Retail Sales Performance & Regional Insights
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.jpeg)
 
 ## Project Overview
 Analyzed 9,994 retail transactions from the Kaggle Superstore dataset 
